@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://martinsidorov.com">Monder!</a></h1>
 <h3 align="center">Embedded Systems Developer</h3>
 
-<div align="center">
-  <a href="https://u8views.com/github/Matrix278"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
-</div>
-
 - 🔭 I’m currently working in **Geothentic**
 
 - 🌱 I’m currently learning **C language, RTOS, Design Patterns**
