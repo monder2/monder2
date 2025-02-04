@@ -5,10 +5,6 @@
   <a href="https://u8views.com/github/Matrix278"><img src="https://u8views.com/api/v1/github/profiles/35573364/views/day-week-month-total-count.svg"></a>
 </div>
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/matrix278"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="matrix278" /></a>
-</div>
-
 - 🔭 I’m currently working in **Geothentic**
 
 - 🌱 I’m currently learning **C language, RTOS, Design Patterns**
