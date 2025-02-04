@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://martinsidorov.com">Monder!</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://martinsidorov.com">Mondher!</a></h1>
 <h3 align="center">Embedded Systems Developer</h3>
 
 - 🔭 I’m currently working in **Geothentic**
