@@ -9,10 +9,6 @@
   <a href="https://www.buymeacoffee.com/matrix278"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="matrix278" /></a>
 </div>
 
-<!-- <div align="center"> <img src="https://github.com/Matrix278/Matrix278/blob/master/assets/matrix-has-you.gif" alt="matrix278" /> </div> -->
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matrix278&theme=onedark&row=2&column=3" alt="matrix278" /></a> </p> -->
-
 - 🔭 I’m currently working in **Geothentic**
 
 - 🌱 I’m currently learning **C language, RTOS, Design Patterns**
