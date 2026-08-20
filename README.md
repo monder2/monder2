@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm <a href="https://martinsidorov.com">Mondher!</a></h1>
 <h3 align="center">Embedded Systems Developer</h3>
 
-- 🔭 I’m currently working in **Geothentic**
+- 🔭 Open to contributing to open-source IoT, RTOS, and embedded systems projects.
 
-- 🌱 I’m currently learning **C language, RTOS, Design Patterns**
+- 🌱 I’m currently learning **C language, Zephyr RTOS, Docker**
 
 - 👨‍💻 All of my projects are available here on GitHub 😄
 
@@ -20,12 +20,11 @@
    <a href="https://www.freertos.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_freeRTOS.png" width="70"/></a>
    <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
    <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
    <a href="https://www.qt.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40"/></a>
+   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
    <a href="https://www.zephyrproject.org/" target="_blank"><img src="https://raw.githubusercontent.com/zephyrproject-rtos/zephyr/main/doc/_static/images/logo-readme-light.svg" width="60"/></a>
+    <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
 
 
 
